@@ -1,2 +1,0 @@
-# lightxbugwebsite
-official website
